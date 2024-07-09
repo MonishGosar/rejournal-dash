@@ -1,5 +1,4 @@
-streamlit
-streamlit-elements
-mysql-connector-python
-pandas
-nivo
+streamlit==1.36.0
+streamlit-elements==0.1.0
+mysql-connector-python==9.0.0
+pandas==2.2.2
